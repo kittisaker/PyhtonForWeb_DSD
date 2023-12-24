@@ -1,0 +1,46 @@
+body{
+    font-family: "Charm", serif;
+}
+
+#first{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+#last{
+    color: green;
+}
+
+.xx{
+    text-align: right;
+    color: rgb(255, 0, 162);
+    font-family: "Charm", sans-serif;
+}
+
+h1{
+    font-style: italic;
+}
+
+.d1{
+    background-color: aquamarine;
+}
+
+.d2{
+    background-color: rgb(175, 103, 10);
+}
+
+.d3{
+    background-color: rgb(244, 133, 210);
+}
+
+.container{
+    width: 100%;
+}
+
+.container div{
+    width: 33%;
+    float: right;
+    height: 1000px;
+    /* overflow: scroll; */
+}
